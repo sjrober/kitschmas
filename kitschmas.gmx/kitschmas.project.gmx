@@ -130,7 +130,7 @@
       <object>objects\obj_lifeform_parent</object>
       <object>objects\obj_door</object>
       <object>objects\obj_view</object>
-      <object>objects\obj_sound_control</object>
+      <object>objects\obj_music_control</object>
       <object>objects\obj_speaker</object>
       <object>objects\obj_dialog</object>
     </objects>
@@ -170,6 +170,7 @@
     </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\game_initialize</room>
     <room>rooms\room_game_start</room>
     <room>rooms\room1</room>
     <room>rooms\room_galaxy</room>
