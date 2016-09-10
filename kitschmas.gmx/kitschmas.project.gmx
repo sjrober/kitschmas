@@ -126,11 +126,11 @@
   <objects name="objects">
     <object>objects\obj_game_start</object>
     <objects name="help objects">
-      <object>objects\inventory</object>
       <object>objects\obj_bounds</object>
       <object>objects\obj_lifeform_parent</object>
       <object>objects\obj_door</object>
       <object>objects\obj_view</object>
+      <object>objects\obj_sound_control</object>
       <object>objects\obj_speaker</object>
       <object>objects\obj_dialog</object>
     </objects>
@@ -155,6 +155,7 @@
       <object>objects\obj_tape</object>
       <object>objects\obj_tree</object>
       <object>objects\obj_treemusic</object>
+      <object>objects\inventory</object>
     </objects>
     <objects name="inventory objects">
       <object>objects\obj_leaf</object>

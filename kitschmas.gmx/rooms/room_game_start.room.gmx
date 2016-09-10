@@ -53,6 +53,7 @@
   <instances>
     <instance objName="obj_game_start" x="0" y="0" name="inst_90B2F65D" locked="0" code="" scaleX="0.9532710313797" scaleY="0.956250011920929" colour="4294967295" rotation="0"/>
     <instance objName="obj_player_jump" x="150" y="240" name="inst_E0D7F49B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_sound_control" x="270" y="30" name="inst_4EE9D579" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>
